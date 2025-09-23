@@ -1,0 +1,7 @@
+PI = 3.14159
+TAXA_DE_JUROS = 0.15
+NOME_EMPRESA = "SistemPEcorp"
+
+print(PI)
+print(TAXA_DE_JUROS)
+print(NOME_EMPRESA)
